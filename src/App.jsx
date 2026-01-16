@@ -13,12 +13,6 @@ function App() {
   const [isDark, setIsDark] = useState(true);
   return (
     <>
-      {/* <BrowserRouter>
-        <Routes>
-          <Router path="/" element={<HomePage />} />
-        </Routes>
-      </BrowserRouter> */}
-  
     <div className={isDark ? 'dark' : ''}>
       <div className="min-h-screen bg-slate-950 transition-colors duration-300">
         <Navbar isDark={isDark} setIsDark={setIsDark} />
