@@ -43,8 +43,8 @@ export default function Hero() {
               Got a project?
             </a>
             <a 
-              href="Yousif Adel CV.pdf" 
-              download="Yousif Adel CV.pdf"
+              href="Yousif_Adel_CV.pdf" 
+              download="Yousif_Adel_CV.pdf"
               className="px-8 py-4 border-2 border-orange-500 text-orange-500 font-bold rounded hover:bg-orange-500 hover:text-white hover:scale-105 transition-all duration-300 inline-block"
             >
               Download My CV
